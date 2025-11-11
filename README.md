@@ -8,7 +8,7 @@ Passionate developer specializing in creating modern web and mobile applications
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **I.T.S. coop** in Vimercate, Italy
+- 🔭 Currently working in **MVS Italy**
 - 💼 Building Flutter mobile apps & React web applications
 - 🌱 Constantly learning and exploring new technologies
 - 📫 Reach me at: **jeramfernando04@gmail.com**
@@ -33,6 +33,11 @@ Passionate developer specializing in creating modern web and mobile applications
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF6B00?style=for-the-badge&logo=hive&logoColor=white)
+
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -46,28 +51,15 @@ Passionate developer specializing in creating modern web and mobile applications
 
 ## 📊 GitHub Stats
 
-> 💼 I actively contribute on both my personal and professional accounts
+> 💼 Most of my professional work is in private repositories at MVS Italy - Check out my work profile [@JeramFernandoMVS](https://github.com/JeramFernandoMVS)
 
 <div align="center">
-  
-### Personal [@JeramFernando13](https://github.com/JeramFernando13)
-  
-<img src="https://github-readme-stats.vercel.app/api?username=JeramFernando13&show_icons=true&theme=radical&hide_border=true" alt="Personal GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeramFernando13&layout=compact&theme=radical&hide_border=true" alt="Personal Top Languages" height="170"/>
-
-### Work [@JeramFernandoMVS](https://github.com/JeramFernandoMVS)
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeramFernandoMVS&show_icons=true&theme=radical&hide_border=true" alt="Work GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeramFernandoMVS&layout=compact&theme=radical&hide_border=true" alt="Work Top Languages" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JeramFernando13&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeramFernando13&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  
-### Combined Activity Streak
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeramFernandoMVS&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeramFernando13&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
