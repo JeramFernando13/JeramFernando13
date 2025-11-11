@@ -25,7 +25,9 @@ Passionate developer specializing in creating modern web and mobile applications
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -44,15 +46,28 @@ Passionate developer specializing in creating modern web and mobile applications
 
 ## 📊 GitHub Stats
 
-> 💼 Most of my work is on my professional account [@JeramFernandoMVS](https://github.com/JeramFernandoMVS)
+> 💼 I actively contribute on both my personal and professional accounts
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeramFernandoMVS&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeramFernandoMVS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  
+### Personal [@JeramFernando13](https://github.com/JeramFernando13)
+  
+<img src="https://github-readme-stats.vercel.app/api?username=JeramFernando13&show_icons=true&theme=radical&hide_border=true" alt="Personal GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeramFernando13&layout=compact&theme=radical&hide_border=true" alt="Personal Top Languages" height="170"/>
+
+### Work [@JeramFernandoMVS](https://github.com/JeramFernandoMVS)
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeramFernandoMVS&show_icons=true&theme=radical&hide_border=true" alt="Work GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeramFernandoMVS&layout=compact&theme=radical&hide_border=true" alt="Work Top Languages" height="170"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeramFernandoMVS&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  
+### Combined Activity Streak
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeramFernandoMVS&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ---
