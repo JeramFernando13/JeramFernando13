@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeram Fernando
 
-### Junior Software Developer
+### Junior Software Developer | Mobile & Web Applications
 
 Passionate developer specializing in creating modern web and mobile applications. I love turning ideas into reality through clean, efficient code.
 
@@ -44,13 +44,15 @@ Passionate developer specializing in creating modern web and mobile applications
 
 ## 📊 GitHub Stats
 
+> 💼 Most of my work is on my professional account [@JeramFernandoMVS](https://github.com/JeramFernandoMVS)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeramFernando13&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeramFernando13&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeramFernandoMVS&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeramFernandoMVS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeramFernando13&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeramFernandoMVS&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
