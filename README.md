@@ -1,18 +1,20 @@
 # 👋 Hi, I'm Jeram Fernando
 
-### Junior Software Developer | Mobile & Web Applications
+### Frontend & Mobile Developer | Flutter · React / Next.js
 
-Passionate developer specializing in creating modern web and mobile applications. I love turning ideas into reality through clean, efficient code.
+Frontend and mobile developer who loves turning ideas into clean, working products — from offline-first mobile apps to internal web portals. Currently building for field technicians and exploring how AI-assisted workflows fit into everyday development.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working in **MVS Italy**
-- 💼 Building Flutter mobile apps & React web applications
-- 🌱 Constantly learning and exploring new technologies
+- 🔭 Currently working at **MVS Italy** as a Junior Full Stack & Mobile Developer
+- 💼 Building Flutter mobile apps, React/Next.js web apps, and integrating with enterprise systems (IBM Domino)
+- 🤖 Using **Claude Code** daily as part of my dev workflow, plus n8n for automation projects on the side
+- 🌍 Open to 100% remote opportunities
+- 🌱 Constantly learning — currently deepening TypeScript and exploring Python
 - 📫 Reach me at: **jeramfernando04@gmail.com**
-- 🇮🇹 Based in Italy
+- 🇮🇹 Based in Italy (CET)
 
 ---
 
@@ -29,23 +31,42 @@ Passionate developer specializing in creating modern web and mobile applications
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FF6B00?style=for-the-badge&logo=hive&logoColor=white)
-
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Tools & Others
+### Backend & Data
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF6B00?style=for-the-badge&logo=hive&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### AI-Assisted Dev & Automation
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 📦 Featured Projects
+
+**At MVS Italy**
+- **AskQ Mobile** — Offline-first Flutter app for field technicians, with a custom sync-queue architecture built for unreliable connectivity *(private repo — professional work)*
+- **AskQ Courier** — Flutter courier app published on Google Play (`com.mvsitaly.askq_courier`)
+- **SelenIA Asset Portal** — Internal asset-management web app (Next.js + Supabase), deployed on Vercel
+- **LDV Portal** — Leading the modernization audit of a legacy IBM Domino system toward a React + REST architecture
+
+**Independent / Freelance**
+- 🔗 [**Stock Product**](https://github.com/JeramFernando13/stock-product) — Multi-tenant warehouse/stock-management web app (Next.js 16, Tailwind v4, Supabase, custom auth, multi-language)
+- **React Audio Trainer** — A modular decibel meter for live sound engineers, with FOH compensation and venue profiles, deployed on Vercel
+- **Setlist & Chord Bot** — n8n automation that parses WhatsApp song/chord requests via AI, matches them against a Google Sheets catalog, and replies by email/WhatsApp
+- **Bible Verse Generator** — n8n workflow that auto-generates and publishes daily verse graphics for social media
 
 ---
 
@@ -66,20 +87,20 @@ Passionate developer specializing in creating modern web and mobile applications
 
 ## 🎓 Learning Journey
 
-- ✅ **Full Stack Development** - Aulab Bootcamp
-- ✅ **React Specialization** - Advanced React patterns & best practices
-- ✅ **Next.js** - Production-ready applications
-- ✅ **Flutter** - Cross-platform mobile development
-- 🔄 **TypeScript** - Ongoing improvement
+- ✅ **Full Stack Development** - Aulab Bootcamp (React, Laravel, MySQL, Agile/Scrum)
+- ✅ **Claude Code in Action** - Anthropic Academy
+- ✅ **AI Fluency for Builders** - Anthropic Academy
+- 🔄 **TypeScript** - ongoing improvement
+- 🔄 **Python** - learning
 
 ---
 
 ## 💼 What I'm Working On
 
-- 📱 Building and maintaining Flutter mobile applications
-- ⚛️ Developing React/Next.js web applications
-- 🚀 Migrating legacy projects to modern tech stacks
-- 📚 Exploring new frameworks and best practices
+- 📱 Maintaining and extending AskQ Mobile & AskQ Courier for MVS Italy's field/courier teams
+- 🏛️ Auditing and planning the modernization of a legacy IBM Domino portal (LDV)
+- 🤖 Building n8n automations and exploring Claude API integrations on the side
+- 🚀 Looking for my next 100% remote role
 
 ---
 
@@ -87,6 +108,7 @@ Passionate developer specializing in creating modern web and mobile applications
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeramfernando04@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeramFernando13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeram-fernando-developer/)
 
 ---
 
